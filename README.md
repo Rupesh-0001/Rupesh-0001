@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rupesh Ahuja</h1>
 <h3 align="center">Transforming Ideas into Code, One Commit at a Time.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.rupeshahuja.com](https://www.rupeshahuja.com)
+- 🔭 I’m currently working at **GreyB Research Ltd.** as Software Developer.
+
+- 👨‍💻 All of my projects are available at [rupeshahuja.com](https://www.rupeshahuja.com)
 
 - 📫 How to reach me **rupeshahuja28@gmail.com**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1LsLfjdgqhAxv_YI3GLlXgE32M-8ctKbE/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1tlki1LpXtDNlmNt1SOd6DB1r5sZC6uLs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
