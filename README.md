@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **GreyB Research Ltd.** as Software Developer.
 
-- 👨‍💻 All of my projects are available at [rupeshahuja.com](https://www.rupeshahuja.com)
+- 👨‍💻 All of my projects are available at [rupeshahuja.in](https://www.rupeshahuja.in)
 
 - 📫 How to reach me **rupeshahuja28@gmail.com**
 
