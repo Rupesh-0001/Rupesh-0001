@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rupeshahuja28@gmail.com**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1nzTSygcHTZ3Vxl7D9Hp0olAYYRl_HMlZ/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1kz8Didj83aJIa1RuLz-0dzC7tT7nnGws/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
